@@ -1,0 +1,19 @@
+body {
+  background-color: #f0f3f8;
+  font-family: "微軟正黑體", sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  color: #1e3d7b;
+}
+
+p {
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px auto;
+  width: 300px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
